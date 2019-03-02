@@ -168,12 +168,4 @@ We have added additional shortcode as [wp-products] which can be included in pag
 
 Note: To check with previously visisted page we have used PHP SESSIONS but we can also used COOKIE and LOCAL STORAGE.
 
-Staus: Done
-
-
-
-
-
-
-
-
+I have generated this plugin from https://wppb.me/ and added required functionality as per the requirements.
